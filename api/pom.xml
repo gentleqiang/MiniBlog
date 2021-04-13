@@ -147,7 +147,7 @@
 
 
         <!--mybatis-plus-->
-        <!--<dependency>
+        <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
             <version>${mybatisplus.version}</version>
@@ -157,7 +157,7 @@
                     <artifactId>mybatis-plus-generator</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>-->
+        </dependency>
 
     </dependencies>
 
